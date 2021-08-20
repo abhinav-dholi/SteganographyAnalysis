@@ -1,0 +1,5 @@
+sudo python3 steg.py merge --img1=/home/debalay/Desktop/osproject/img1.png --img2=/home/debalay/Desktop/osproject/img2.png --output=/home/debalay/Desktop/osproject/merge/outputstthreebit.png
+
+
+sudo python3 steg.py unmerge --img=/home/debalay/Desktop/osproject/merge/outputstthreebit.png --output=/home/debalay/Desktop/osproject/unmerge/unmergethreebit.png
+
